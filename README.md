@@ -67,18 +67,6 @@ I’m a Computing Science student with hands-on experience in full-stack develop
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-
-# 📊 GitHub Stats:
-<div align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Gourav-Sharma243&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /> -->
-<br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Gourav-Sharma243&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gourav-Sharma243&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Gourav-Sharma243&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
